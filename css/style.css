@@ -72,3 +72,11 @@ button {
 footer {
     text-align: center;
 }
+
+/* responsive design */
+
+@media screen and (max-width: 480) {
+    main {
+        background-color: rgb(116, 187, 217);
+    }
+}
